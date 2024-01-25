@@ -18,7 +18,7 @@ Contribuciones Bienvenidas:
 
 ¡Este proyecto es totalmente abierto a contribuciones de la comunidad! Si tienes ideas para mejorar la funcionalidad, diseño o cualquier otra característica, no dudes en realizar una solicitud de extracción.
 
-Tomado del codigo publico y abierto de : @rolando-d3v
+Tomado del codigo publico y abierto de : -------- [@rolando-d3v] ---------
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
